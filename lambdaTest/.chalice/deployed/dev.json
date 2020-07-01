@@ -15,6 +15,11 @@
       "name": "check_this_works",
       "resource_type": "lambda_function",
       "lambda_arn": "arn:aws:lambda:ap-southeast-1:092238776114:function:lambdaTest-dev-check_this_works"
+    },
+    {
+      "name": "testFunction",
+      "resource_type": "lambda_function",
+      "lambda_arn": "arn:aws:lambda:ap-southeast-1:092238776114:function:lambdaTest-dev-testFunction"
     }
   ],
   "schema_version": "2.0",
