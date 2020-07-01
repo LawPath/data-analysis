@@ -22,6 +22,7 @@ def s3PrintFunction(event,context):
     stuff = s3_resource.Bucket(BUCKET)
     for obj in stuff.objects.all():
         print(obj.key)
+    return 
 
 #@app.on_s3_event(bucket=BUCKET, events=['s3:ObjectCreated:*'])
 #def prints3chalice(event,context):
