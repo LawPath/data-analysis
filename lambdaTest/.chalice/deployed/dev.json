@@ -7,15 +7,14 @@
       "role_name": "lambdaTest-dev"
     },
     {
-      "name": "api_handler",
+      "name": "hello_world",
       "resource_type": "lambda_function",
-      "lambda_arn": "arn:aws:lambda:ap-southeast-1:092238776114:function:lambdaTest-dev"
+      "lambda_arn": "arn:aws:lambda:ap-southeast-1:092238776114:function:lambdaTest-dev-hello_world"
     },
     {
-      "name": "rest_api",
-      "resource_type": "rest_api",
-      "rest_api_id": "srh49fqryh",
-      "rest_api_url": "https://srh49fqryh.execute-api.ap-southeast-1.amazonaws.com/api/"
+      "name": "check_this_works",
+      "resource_type": "lambda_function",
+      "lambda_arn": "arn:aws:lambda:ap-southeast-1:092238776114:function:lambdaTest-dev-check_this_works"
     }
   ],
   "schema_version": "2.0",

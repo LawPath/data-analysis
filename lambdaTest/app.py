@@ -3,9 +3,13 @@ from chalice import Chalice
 app = Chalice(app_name='lambdaTest')
 
 
-@app.route('/')
-def index():
+@app.lambda_function()
+def hello_world(event, context):
     return {'hello': 'world'}
+
+@app.lambda_function()
+def check_this_works(event, context):
+    return {"hello again"}
 
 
 # The view function above will return {"hello": "world"}
