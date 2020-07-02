@@ -23,6 +23,8 @@ service: file-manager
 provider:
   name: aws
   runtime: python2.7
+  profile: andrea.soriano
+  region: ap-southeast-1
 
   iamRoleStatements:
     - Effect: "Allow"
