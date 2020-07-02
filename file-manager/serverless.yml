@@ -34,9 +34,12 @@ provider:
         - "*"
 
 functions:
-  hello:
-    handler: handler.hello
-
+  s3_handler:
+    handler: handler.s3_handler
+  sns_handler:
+    handler: handler.sns_handler
+    events:
+      - sns: lambda_topic
 
 #    The following are a few example events you can configure
 #    NOTE: Please make sure to change your handler code to work with those events
