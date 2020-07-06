@@ -11,7 +11,7 @@
 #
 # Happy Coding!
 
-service: file-manager
+service: iuf-data-analysis
 # app and org for use with dashboard.serverless.com
 #app: your-app-name
 #org: your-org-name
@@ -22,9 +22,9 @@ service: file-manager
 
 provider:
   name: aws
-  runtime: python2.7
+  runtime: python3.7
   profile: andrea.soriano
-  region: ap-southeast-1
+  region: ap-southeast-2
 
   iamRoleStatements:
     - Effect: "Allow"
@@ -34,12 +34,11 @@ provider:
         - "*"
 
 functions:
-  s3_handler:
-    handler: handler.s3_handler
-  sns_handler:
-    handler: handler.sns_handler
+  
+  segmentLogAnalyser:
+    handler: handler.segmentLogAnalyser
     events:
-      - sns: lambda_topic
+      - sns: segmentLog-Notification-topic
 
 #    The following are a few example events you can configure
 #    NOTE: Please make sure to change your handler code to work with those events
