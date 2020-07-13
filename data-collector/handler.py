@@ -27,7 +27,7 @@ def retrieveObjects(keyList):
             for line in gf:
                 json_line=json.loads(line)
                 if json_line['type'] == 'track':
-                    date = json_line.get('receivedAt')[0:9]
+                    date = json_line.get('receivedAt')[0:10]
                     objectList.append([
                         date,
                         json_line.get('receivedAt'),
