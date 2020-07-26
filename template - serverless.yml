@@ -1,0 +1,20 @@
+
+service: stripe-customers
+
+provider:
+  name: aws
+  runtime: python3.7
+  profile: andrea.soriano
+  region: ap-southeast-2
+
+  iamRoleStatements:
+    - Effect: "Allow"
+      Action:
+        - "s3:*"
+      Resource:
+        - "*"
+
+functions:
+  getStripeCustomers:
+    handler: handler.getStripeCustomers
+    timeout: 120

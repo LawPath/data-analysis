@@ -1,0 +1,13 @@
+SELECT CAST(date as DATE) as dateFilter, "user id", "user email", event
+FROM segment_logs_events
+WHERE dateFilter > CAST('2019-10-01'as DATE)
+GROUP BY dateFilter
+
+SELECT date_parse(date, '"%Y-%m-%d"') as FILTER, event, "user email"
+FROM segment_logs_events
+
+Grok patterns
+%{TIMESTAMP_ISO8601:date}
+%{TIMESTAMP_ISO8601:timestamp}
+%{TIMESTAMP_ISO8601:timestamp}
+%{TIMESTAMP_ISO8601:timestamp}

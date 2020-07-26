@@ -1,0 +1,568 @@
+('segment-logs/6Q2N6sz6Aq/1552003200000/1552044558392.f2a929f376a0.dev.2a6040fa-a95d-4129-ba99-b311eca23c0e.gz', datetime.datetime(2019, 3, 8, 11, 36, 13, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1552348800000/1552361380411.d38662552ca4.dev.c9a555a2-e894-4c10-b891-a6b13db60390.gz', datetime.datetime(2019, 3, 12, 3, 34, 28, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1552608000000/1552678169794.d38662552ca4.dev.5069efa3-532c-416f-a973-7d4b2be4d39b.gz', datetime.datetime(2019, 3, 15, 19, 33, 13, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1552953600000/1552987755224.10e472bfb830.dev.d7e31539-e2c5-4d52-9d48-2b0216e905c4.gz', datetime.datetime(2019, 3, 19, 9, 34, 53, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1553212800000/1553301022885.b7a80a25c764.dev.c2f9c15b-351e-4008-bd25-8950c47a4e74.gz', datetime.datetime(2019, 3, 23, 0, 33, 45, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1553558400000/1553628576524.efb1751923c9.dev.9bb64444-0fd1-4f2c-ab55-cad815346e11.gz', datetime.datetime(2019, 3, 26, 19, 35, 22, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1553817600000/1553902151528.f2a929f376a0.dev.b7c302f3-22ad-46e2-bbcd-a99fd23b950d.gz', datetime.datetime(2019, 3, 29, 23, 30, 14, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1554076800000/1554154186194.10e472bfb830.dev.7b621195-019b-443e-bf37-b404fb79d1f4.gz', datetime.datetime(2019, 4, 1, 21, 30, 44, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1554336000000/1554388232147.b7a80a25c764.dev.409cd803-77d0-4e23-8d98-1623a7ab83dd.gz', datetime.datetime(2019, 4, 4, 14, 35, 15, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1554595200000/1554641804635.ea245cc7f2f1.9f83b95.bc184c83-7465-4cef-ba5d-86c02699b705.gz', datetime.datetime(2019, 4, 7, 13, 1, 11, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1554854400000/1554901009832.763c5b625d53.9f83b95.a7101e3e-966c-4cc9-810c-b60624fd5042.gz', datetime.datetime(2019, 4, 10, 13, 4, 23, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1555113600000/1555163810790.78e68f4ff0c5.9f83b95.9e3b9024-d05b-4f3f-8f58-73d3d027ba92.gz', datetime.datetime(2019, 4, 13, 14, 2, 2, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1555372800000/1555441040169.3c673a607f7b.9f83b95.d1b78826-b60c-4177-a4b6-4b1b973fa072.gz', datetime.datetime(2019, 4, 16, 19, 5, 34, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1555632000000/1555707397211.8232105c1f6d.9f83b95.df99814d-94cd-46f8-b320-5465d242f246.gz', datetime.datetime(2019, 4, 19, 20, 59, 59, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1555977600000/1555981022343.a0732b581eb0.9f83b95.2500e7e3-20b4-49fc-856e-1d7f367a1654.gz', datetime.datetime(2019, 4, 23, 1, 1, 23, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1556236800000/1556240257417.3c673a607f7b.9f83b95.1466de27-aec0-4398-8399-d1851eab173e.gz', datetime.datetime(2019, 4, 26, 1, 3, 41, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1556496000000/1556517397060.0ae90173de6a.9f83b95.ef1939f5-2992-4d51-a9d0-f573fc72a359.gz', datetime.datetime(2019, 4, 29, 6, 0, 38, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1556755200000/1556762273770.f38b02cc5633.9f83b95.2167194b-2cb2-4d05-bb33-361ecc5ced7e.gz', datetime.datetime(2019, 5, 2, 2, 4, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1557014400000/1557028596362.0ae90173de6a.9f83b95.54568c50-1c37-4c06-b803-b511d8c25a48.gz', datetime.datetime(2019, 5, 5, 3, 58, 22, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1557273600000/1557280615199.20e457c25bd4.9f83b95.8ea75cec-25b9-4234-9295-f756afee97f9.gz', datetime.datetime(2019, 5, 8, 1, 59, 33, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1557532800000/1557539810394.35fe3f180d70.9f83b95.af03188c-1c8c-4566-b203-9cf4b4007935.gz', datetime.datetime(2019, 5, 11, 1, 59, 5, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1557792000000/1557809811622.20e457c25bd4.9f83b95.536bf3d7-f7fa-40f7-bb89-4af59e3d7c5e.gz', datetime.datetime(2019, 5, 14, 4, 57, 49, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1558051200000/1558061791717.20e457c25bd4.9f83b95.0209cf14-1716-486b-b15e-948cbbe0cc6b.gz', datetime.datetime(2019, 5, 17, 2, 56, 39, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1558310400000/1558338999142.8232105c1f6d.9f83b95.bfdd4b1e-72d9-41eb-a0fa-d3c6de7c5503.gz', datetime.datetime(2019, 5, 20, 8, 3, 5, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1558569600000/1558590993675.a0732b581eb0.9f83b95.f3d355ff-bfa8-4fba-b99e-4545b20421d1.gz', datetime.datetime(2019, 5, 23, 5, 59, 57, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1558828800000/1558858027868.019a0321fa2a.e4797d0.5f526b76-7c42-4bf8-8300-5469a6789b03.gz', datetime.datetime(2019, 5, 26, 8, 9, 12, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1559088000000/1559113631663.5b68dd0df0af.e4797d0.00d87a29-f785-4de6-86ba-525125a9967e.gz', datetime.datetime(2019, 5, 29, 7, 9, 46, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1559347200000/1559351241411.ab59afe0574d.e4797d0.477a58de-ab12-4df8-b2d1-2335dc750743.gz', datetime.datetime(2019, 6, 1, 1, 11, 8, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1559520000000/1559563639940.0ed18d56e7db.e4797d0.f9a92c7c-2977-43cd-adc9-4efdc2644806.gz', datetime.datetime(2019, 6, 3, 12, 9, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1559692800000/1559779654151.0912e92fcdd6.e4797d0.5790bbfb-89a9-4497-b705-d43e60b7bd53.gz', datetime.datetime(2019, 6, 6, 0, 15, 26, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1559952000000/1559994905518.7d184d6e1834.e4797d0.a22379e9-d46c-4326-ab11-b1b7ac811553.gz', datetime.datetime(2019, 6, 8, 11, 57, 45, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1560211200000/1560218856109.0ed18d56e7db.e4797d0.83f4f4e3-f249-4653-a649-1d997cd7f890.gz', datetime.datetime(2019, 6, 11, 2, 13, 7, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1560384000000/1560431257661.019a0321fa2a.e4797d0.d92f663a-c526-4ae6-a5b3-5c7ba6e44f40.gz', datetime.datetime(2019, 6, 13, 13, 11, 6, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1560643200000/1560650834867.09257d6fd6ca.e4797d0.939422d1-f0c3-4514-a273-8d552b5f803a.gz', datetime.datetime(2019, 6, 16, 2, 9, 35, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1560816000000/1560856031280.0f8dd4e4de52.e4797d0.93f8d972-c578-447f-afc7-90377a55efb9.gz', datetime.datetime(2019, 6, 18, 11, 10, 24, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1560988800000/1561074922534.24c78a302da4.e4797d0.25112c02-2daa-45e1-b3fb-246dccb20043.gz', datetime.datetime(2019, 6, 21, 0, 0, 43, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1561248000000/1561295239159.e346470e0c37.e4797d0.af6dad53-cffa-446d-88e7-3d7aaaf44197.gz', datetime.datetime(2019, 6, 23, 13, 8, 58, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1561507200000/1561511237508.019a0321fa2a.e4797d0.a98497f8-7a80-4f0f-ace0-97755613ed54.gz', datetime.datetime(2019, 6, 26, 1, 12, 11, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1561680000000/1561720028279.09257d6fd6ca.e4797d0.8bdf3fce-9185-4741-bbf4-775c53e1db76.gz', datetime.datetime(2019, 6, 28, 11, 9, 6, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1561852800000/1561939639346.4b8bf6068e8b.e4797d0.41e2e83a-7ffc-4a1f-94b2-e731586d93f9.gz', datetime.datetime(2019, 7, 1, 0, 12, 17, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1562112000000/1562152031676.76dcdc3e3a88.e4797d0.b16800f9-e074-4de0-a54d-e49284483041.gz', datetime.datetime(2019, 7, 3, 11, 12, 32, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1562284800000/1562368043847.e9a2911a4a83.e4797d0.a2c3ff16-3b3a-403c-99a4-04c6577cb8ca.gz', datetime.datetime(2019, 7, 5, 23, 14, 3, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1562544000000/1562572508288.7d184d6e1834.e4797d0.7f37a161-9a45-4e06-9411-257fc546e54b.gz', datetime.datetime(2019, 7, 8, 8, 1, 18, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1562716800000/1562774828441.827d089935eb.e4797d0.37a551c3-0663-49ea-8188-6089da0b426d.gz', datetime.datetime(2019, 7, 10, 16, 8, 39, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1562976000000/1562986520382.7d184d6e1834.e4797d0.2daa4ada-ae2e-4ed7-b213-520cc01f0014.gz', datetime.datetime(2019, 7, 13, 3, 0, 14, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1563148800000/1563199633022.83ac57d26ba8.e4797d0.3763c1f7-e64d-40c2-9ed3-cb388b926e78.gz', datetime.datetime(2019, 7, 15, 14, 10, 47, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1563408000000/1563412034111.2569a04bf190.e4797d0.cb6cede5-116c-4770-ba25-e9e403fe302b.gz', datetime.datetime(2019, 7, 18, 1, 10, 36, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1563580800000/1563620827463.0f8dd4e4de52.e4797d0.c8cf0948-3e40-4a01-881a-a65033133884.gz', datetime.datetime(2019, 7, 20, 11, 7, 51, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1563753600000/1563840454595.4b8bf6068e8b.e4797d0.2205e845-9fd4-44d9-993a-fe5c3111a27a.gz', datetime.datetime(2019, 7, 23, 0, 14, 52, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1564012800000/1564041302312.24c78a302da4.e4797d0.9cd228c9-6580-4401-8e54-a22200985cd4.gz', datetime.datetime(2019, 7, 25, 7, 55, 25, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1564185600000/1564264513314.24c78a302da4.e4797d0.d9a488c4-4e0b-4ef2-bbbe-e7640a35c17f.gz', datetime.datetime(2019, 7, 27, 22, 0, 41, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1564444800000/1564470430995.019a0321fa2a.e4797d0.e402601e-d1c8-4ff4-8e4e-2c26bacf6dfe.gz', datetime.datetime(2019, 7, 30, 7, 12, 25, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1564617600000/1564682868305.e9a2911a4a83.e4797d0.6c09c661-5e7f-42da-8b69-b5e63a5d4e88.gz', datetime.datetime(2019, 8, 1, 18, 10, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1564876800000/1564895233372.2569a04bf190.e4797d0.f940bd40-8170-4ce1-bfe1-b7fa8d6c5928.gz', datetime.datetime(2019, 8, 4, 5, 11, 27, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1565049600000/1565114115346.040b170b980a.e4797d0.81186d35-578a-4592-a414-a593811add74.gz', datetime.datetime(2019, 8, 6, 17, 59, 4, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1565308800000/1565316452602.0ed18d56e7db.e4797d0.953ee6eb-45e6-4f5b-8526-d39247f6c52b.gz', datetime.datetime(2019, 8, 9, 2, 9, 36, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1565481600000/1565546828606.83ac57d26ba8.e4797d0.923505c0-671c-4485-93fe-50809e0f3790.gz', datetime.datetime(2019, 8, 11, 18, 7, 31, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1565740800000/1565758513041.7d184d6e1834.e4797d0.db658d60-9758-4a47-ac4a-1a04fdf034d1.gz', datetime.datetime(2019, 8, 14, 4, 55, 21, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1565913600000/1565975237566.4b8bf6068e8b.e4797d0.7f36d591-0b3e-4a17-a0ad-69ecc117f2f8.gz', datetime.datetime(2019, 8, 16, 17, 9, 39, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1566172800000/1566194833837.0ed18d56e7db.e4797d0.33f68e77-2b74-48cb-b983-eb27f4b4866c.gz', datetime.datetime(2019, 8, 19, 6, 13, 3, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1566345600000/1566418038672.0912e92fcdd6.e4797d0.eb6b1c79-a77f-4166-b2d2-527d88b66f82.gz', datetime.datetime(2019, 8, 21, 20, 13, 34, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1566604800000/1566630431173.0ed18d56e7db.e4797d0.3c82d078-a3dd-4535-be12-8ccbb12af37e.gz', datetime.datetime(2019, 8, 24, 7, 11, 9, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1566777600000/1566832076273.83ac57d26ba8.e4797d0.a4430c3c-12cd-4b2f-aa51-6a5b4b13a8b1.gz', datetime.datetime(2019, 8, 26, 15, 14, 41, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1567036800000/1567044429963.827d089935eb.e4797d0.9226a075-d9db-4031-8023-4e9283824f29.gz', datetime.datetime(2019, 8, 29, 2, 8, 23, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1567209600000/1567253226882.09257d6fd6ca.e4797d0.1e2e254a-a336-468e-9f3a-940efe300ad9.gz', datetime.datetime(2019, 8, 31, 12, 7, 19, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1567468800000/1567472155431.040b170b980a.e4797d0.dadc53e4-38dc-4620-b289-9e83ca2d926a.gz', datetime.datetime(2019, 9, 3, 1, 5, 22, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1567641600000/1567674431942.09257d6fd6ca.e4797d0.33b5cc30-4d18-40d1-8426-c5a37bf0f94b.gz', datetime.datetime(2019, 9, 5, 9, 13, 28, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1567814400000/1567897629962.2569a04bf190.e4797d0.5688551a-1045-49d7-9119-13760aa5403c.gz', datetime.datetime(2019, 9, 7, 23, 9, 29, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1568073600000/1568113580708.c1031d165a34.e4797d0.b21bfbd0-d493-4066-87a4-b53a9c2687fb.gz', datetime.datetime(2019, 9, 10, 11, 11, 33, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1568246400000/1568329635168.ab59afe0574d.e4797d0.33a014cd-85aa-4c96-9067-d7ea3c76bd47.gz', datetime.datetime(2019, 9, 12, 23, 10, 1, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1568505600000/1568549230719.e9a2911a4a83.e4797d0.f5db55a2-d550-48fb-b65e-d025ddaf6421.gz', datetime.datetime(2019, 9, 15, 12, 10, 53, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1568678400000/1568765295840.09257d6fd6ca.e4797d0.822d90ea-5a7d-4cdf-bf57-c3cae697a172.gz', datetime.datetime(2019, 9, 18, 0, 20, 47, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1568937600000/1568966829255.827d089935eb.e4797d0.eee72f39-378c-4bbd-8943-fdd44dccc02b.gz', datetime.datetime(2019, 9, 20, 8, 10, 34, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1569196800000/1569197230885.0f8dd4e4de52.e4797d0.0e76c4f2-2bc4-4d2d-bea8-52eec32076ea.gz', datetime.datetime(2019, 9, 23, 0, 7, 55, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1569369600000/1569398831039.09257d6fd6ca.e4797d0.b5e8a2eb-239a-4b47-b358-c7861e5536ef.gz', datetime.datetime(2019, 9, 25, 8, 13, 15, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1569542400000/1569622039713.e9a2911a4a83.e4797d0.4bb8fbe8-962a-42af-9223-00ba59922799.gz', datetime.datetime(2019, 9, 27, 22, 15, 17, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1569801600000/1569827230214.0f8dd4e4de52.e4797d0.ba4d461c-2173-4a13-93bd-22316bf71f27.gz', datetime.datetime(2019, 9, 30, 7, 12, 5, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1569974400000/1570032443675.0912e92fcdd6.e4797d0.8881be7e-b6ac-430d-893b-0197b06a4dc4.gz', datetime.datetime(2019, 10, 2, 16, 13, 45, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1570233600000/1570237653424.2569a04bf190.e4797d0.6f771283-8565-476c-94b3-c05c86ef07ec.gz', datetime.datetime(2019, 10, 5, 1, 9, 54, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1570406400000/1570457245825.09257d6fd6ca.e4797d0.eca5d5cb-7af1-4a3c-9d59-d73a538dfcbf.gz', datetime.datetime(2019, 10, 7, 14, 14, 19, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1570665600000/1570666053763.0f8dd4e4de52.e4797d0.5894e30b-94c7-4ece-86aa-2e97c23947dd.gz', datetime.datetime(2019, 10, 10, 0, 14, 38, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1570838400000/1570867633776.4b8bf6068e8b.e4797d0.f8de866f-2dc6-4483-9069-1c3f9bef1864.gz', datetime.datetime(2019, 10, 12, 8, 10, 30, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1571011200000/1571076427515.c1031d165a34.e4797d0.5f0990e2-3463-4967-88d7-6c0577d0927e.gz', datetime.datetime(2019, 10, 14, 18, 14, 33, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1571270400000/1571270854479.4b8bf6068e8b.e4797d0.acac3a66-8a45-480c-b69a-28c23f8a36ab.gz', datetime.datetime(2019, 10, 17, 0, 15, 6, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1571443200000/1571476034285.e346470e0c37.e4797d0.6d60a86f-21b4-4ba5-9899-1d65146365af.gz', datetime.datetime(2019, 10, 19, 9, 13, 38, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1571616000000/1571702848487.09257d6fd6ca.e4797d0.5ac3bdf2-33e3-427f-b85f-393f9b644340.gz', datetime.datetime(2019, 10, 22, 0, 15, 8, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1571875200000/1571904427085.ab59afe0574d.e4797d0.407a88ee-caf1-43d4-a811-690fcb500140.gz', datetime.datetime(2019, 10, 24, 8, 8, 24, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1572048000000/1572127630235.2569a04bf190.e4797d0.030bb3aa-7fb0-4739-8e89-d099ec1a53a2.gz', datetime.datetime(2019, 10, 26, 22, 7, 50, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1572307200000/1572329228498.09257d6fd6ca.e4797d0.b169730c-c9b1-4c17-b37a-cf031c8b757d.gz', datetime.datetime(2019, 10, 29, 6, 9, 43, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1572480000000/1572540960285.040b170b980a.e4797d0.fd0081f2-fb77-4cec-995c-17966f159d45.gz', datetime.datetime(2019, 10, 31, 17, 2, 7, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1572739200000/1572764113461.24c78a302da4.e4797d0.f4fd178a-6656-410a-afad-1ee8efeb5e0e.gz', datetime.datetime(2019, 11, 3, 6, 57, 3, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1572912000000/1572995243313.83ac57d26ba8.e4797d0.e6307faf-4930-4f76-b2aa-66eb6e58831a.gz', datetime.datetime(2019, 11, 5, 23, 11, 56, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1573171200000/1573196116230.040b170b980a.e4797d0.4edada77-39be-4a2d-9560-ff6878d2e208.gz', datetime.datetime(2019, 11, 8, 6, 59, 39, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1573344000000/1573430882647.76dcdc3e3a88.e4797d0.84b2c410-39b0-4c78-a3fa-ca6d2bb80e96.gz', datetime.datetime(2019, 11, 11, 0, 12, 3, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1573603200000/1573632366931.c1031d165a34.e4797d0.04cfaee0-a6a9-4e6c-9b6a-2c7e993f5e7d.gz', datetime.datetime(2019, 11, 13, 8, 8, 23, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1573776000000/1573841269193.e9a2911a4a83.e4797d0.9df8f4b3-f171-447f-83a6-5b526c54d90c.gz', datetime.datetime(2019, 11, 15, 18, 9, 1, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1574035200000/1574060786015.c1031d165a34.e4797d0.e2f9420e-d540-4b29-bcd8-c93c56973ad1.gz', datetime.datetime(2019, 11, 18, 7, 14, 13, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1574208000000/1574268954798.7d184d6e1834.e4797d0.7bfda0e0-7bc6-45f2-895f-9bbf0eaabf5c.gz', datetime.datetime(2019, 11, 20, 17, 0, 25, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1574467200000/1574474114034.7d184d6e1834.e4797d0.a79ff45f-3a7e-45a0-8421-e0a72203e3c3.gz', datetime.datetime(2019, 11, 23, 1, 58, 2, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1574640000000/1574690873498.83ac57d26ba8.e4797d0.5ae90569-0fc6-4c88-a464-d030bbdbf8da.gz', datetime.datetime(2019, 11, 25, 14, 10, 56, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1574812800000/1574899659267.c1031d165a34.e4797d0.a365953c-2671-4ac5-a594-689dfd8bdb29.gz', datetime.datetime(2019, 11, 28, 0, 22, 10, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1575072000000/1575104835372.827d089935eb.e4797d0.181b6d8a-6acc-4ba5-a797-88b2d014037b.gz', datetime.datetime(2019, 11, 30, 9, 8, 45, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1575244800000/1575328052280.83ac57d26ba8.e4797d0.4ddb6aea-0875-4cde-b59f-ea6e65df0c44.gz', datetime.datetime(2019, 12, 2, 23, 15, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1575504000000/1575533233687.827d089935eb.e4797d0.0c1b479c-de24-4a6c-b907-b5734a132414.gz', datetime.datetime(2019, 12, 5, 8, 12, 47, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1575676800000/1575756371263.c1031d165a34.e4797d0.527c9819-05d5-48bb-a031-4c33c37544fb.gz', datetime.datetime(2019, 12, 7, 22, 9, 14, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1575936000000/1575965227862.81f34d95408c.e4797d0.5ad18f71-afb3-4ea8-9c42-ff8db4206ac5.gz', datetime.datetime(2019, 12, 10, 8, 9, 21, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1576108800000/1576166816664.c1031d165a34.e4797d0.f0d6e6eb-f605-46e1-8ddd-7201113fc177.gz', datetime.datetime(2019, 12, 12, 16, 10, 31, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1576368000000/1576397239020.0f8dd4e4de52.e4797d0.ac7d69ad-5261-4aa7-a3f9-a8c6973d15e0.gz', datetime.datetime(2019, 12, 15, 8, 8, 22, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1576540800000/1576606044799.2569a04bf190.e4797d0.009d7391-dbbb-460f-a86f-478077770aec.gz', datetime.datetime(2019, 12, 17, 18, 12, 30, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1576800000000/1576811258796.83ac57d26ba8.e4797d0.998c3488-1400-417d-8632-f7105e35a3c0.gz', datetime.datetime(2019, 12, 20, 3, 9, 13, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1577059200000/1577063232876.ab59afe0574d.e4797d0.9dca2eb7-9ba4-4404-90f4-cce1161db709.gz', datetime.datetime(2019, 12, 23, 1, 10, 28, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1577318400000/1577333237069.0912e92fcdd6.e4797d0.b4358ded-20cd-4191-b237-8e0767444c69.gz', datetime.datetime(2019, 12, 26, 4, 14, 8, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1577577600000/1577596030995.0912e92fcdd6.e4797d0.3147c49f-f350-4fea-8f5c-22bba61fd8d6.gz', datetime.datetime(2019, 12, 29, 5, 10, 5, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1577836800000/1577851639461.4b8bf6068e8b.e4797d0.1abdbf5f-ac32-4b5d-91e6-b6c1814a597f.gz', datetime.datetime(2020, 1, 1, 4, 12, 27, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1578096000000/1578107261497.827d089935eb.e4797d0.0843d2e9-d44b-4877-94ef-3e39de3b5555.gz', datetime.datetime(2020, 1, 4, 3, 15, 1, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1578268800000/1578340518148.040b170b980a.e4797d0.b2204ff5-24bf-49e7-ab97-16ee7021ab65.gz', datetime.datetime(2020, 1, 6, 19, 59, 13, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1578441600000/1578521243527.81f34d95408c.e4797d0.b47a7d7c-86f6-4130-9713-b765a0e7d887.gz', datetime.datetime(2020, 1, 8, 22, 9, 16, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1578700800000/1578708426241.81f34d95408c.e4797d0.26f64e94-a517-4fa8-b2f8-e83ea6489dbe.gz', datetime.datetime(2020, 1, 11, 2, 7, 8, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1578873600000/1578909304977.7d184d6e1834.e4797d0.e7f2bf77-5358-4d41-af9b-7e163a590b64.gz', datetime.datetime(2020, 1, 13, 9, 58, 14, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1579046400000/1579090034728.4b8bf6068e8b.e4797d0.82b48e52-fab0-420c-98fa-092f52b01244.gz', datetime.datetime(2020, 1, 15, 12, 11, 1, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1579219200000/1579272926007.040b170b980a.e4797d0.7912a105-c6d5-4fbd-9cd2-1f65fc705295.gz', datetime.datetime(2020, 1, 17, 15, 3, 10, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1579392000000/1579468038191.e9a2911a4a83.e4797d0.a0994a33-2a98-4109-bee9-e79311547ace.gz', datetime.datetime(2020, 1, 19, 21, 10, 5, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1579564800000/1579604884038.764f4f590070.e4797d0.55644afa-cac9-455c-9e34-ac95c29b2ad0.gz', datetime.datetime(2020, 1, 21, 11, 12, 4, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1579737600000/1579747448343.c55215427e02.e4797d0.3a770a74-815b-460f-9539-ee846e3079fe.gz', datetime.datetime(2020, 1, 23, 2, 45, 33, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1579824000000/1579892860403.0ed18d56e7db.e4797d0.507e3657-6469-4d3b-b95c-da2a9aacefd0.gz', datetime.datetime(2020, 1, 24, 19, 14, 31, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1579996800000/1580043310233.040b170b980a.e4797d0.abfab82c-b536-4dbf-a22a-ecadf6a6b4a6.gz', datetime.datetime(2020, 1, 26, 12, 55, 41, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1580169600000/1580188098439.11a24f32a6f3.e4797d0.c0238a95-7129-4cfe-ad91-f918e9650df0.gz', datetime.datetime(2020, 1, 28, 5, 12, 6, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1580256000000/1580331975944.c1031d165a34.e4797d0.dca85489-f9f9-4cd3-bf49-7ad2a0e02327.gz', datetime.datetime(2020, 1, 29, 21, 14, 35, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1580428800000/1580468679936.423b3f2993de.e4797d0.64593206-465e-492b-894f-3e2b6d9001f3.gz', datetime.datetime(2020, 1, 31, 11, 7, 7, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1580601600000/1580619965681.c1031d165a34.e4797d0.985389c9-3ee4-4a37-b179-57818dfafdf3.gz', datetime.datetime(2020, 2, 2, 5, 6, 43, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1580688000000/1580764045392.827d089935eb.e4797d0.eb34135d-385f-4c4f-a781-3711b74453da.gz', datetime.datetime(2020, 2, 3, 21, 10, 47, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1580860800000/1580896506932.040b170b980a.e4797d0.f8ac8aa4-b292-4eef-bfad-ac5bc0c3a8ca.gz', datetime.datetime(2020, 2, 5, 10, 2, 8, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1581033600000/1581034096299.76dcdc3e3a88.e4797d0.6b49492e-2ffc-4c21-a6a3-2954a38e64f2.gz', datetime.datetime(2020, 2, 7, 0, 21, 22, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1581120000000/1581185282478.44850b27b671.e4797d0.b9ec69b8-4a78-4d9e-b460-9ec631c32753.gz', datetime.datetime(2020, 2, 8, 18, 9, 6, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1581292800000/1581324910407.7d184d6e1834.e4797d0.b9d026c0-feb5-4395-b507-9214dd424b28.gz', datetime.datetime(2020, 2, 10, 8, 57, 14, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1581379200000/1581466089409.81f34d95408c.e4797d0.dc9ff3e9-2e7b-4a6c-8291-acbc1220f4ca.gz', datetime.datetime(2020, 2, 12, 0, 21, 26, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1581552000000/1581599292874.44850b27b671.e4797d0.fdc17439-8342-4e73-b39a-17755dc8e50a.gz', datetime.datetime(2020, 2, 13, 13, 10, 5, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1581724800000/1581743228660.019a0321fa2a.e4797d0.249c2829-0be1-4a6b-8746-7cecebae72b7.gz', datetime.datetime(2020, 2, 15, 5, 11, 5, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1581811200000/1581890842887.09257d6fd6ca.e4797d0.9145c5d2-dd29-43d4-ac48-903851323d62.gz', datetime.datetime(2020, 2, 16, 22, 14, 17, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1581984000000/1582023887535.423b3f2993de.e4797d0.e37cb294-af19-4578-9e6d-42c23fcbff9a.gz', datetime.datetime(2020, 2, 18, 11, 5, 57, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1582156800000/1582160828430.0ed18d56e7db.e4797d0.82293b35-012d-490f-a7a7-169f3dbb36bd.gz', datetime.datetime(2020, 2, 20, 1, 8, 24, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1582243200000/1582297660879.019a0321fa2a.e4797d0.b0955b70-3809-4388-854c-d30d3e2e82eb.gz', datetime.datetime(2020, 2, 21, 15, 12, 54, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1582416000000/1582452487642.764f4f590070.e4797d0.037575a7-8c22-4d50-8166-78e0416f13ad.gz', datetime.datetime(2020, 2, 23, 10, 14, 26, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1582588800000/1582596387761.c1031d165a34.e4797d0.8c67e6b5-6562-466e-a6ad-4088a026c3f0.gz', datetime.datetime(2020, 2, 25, 2, 10, 34, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1582675200000/1582736837862.2569a04bf190.e4797d0.e40da1b4-baa6-48b3-ab7b-0ea14daffb0b.gz', datetime.datetime(2020, 2, 26, 17, 15, 38, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1582848000000/1582873685002.b9ae9497e1f7.e4797d0.765c882e-0fab-4662-b98c-28739e738ba7.gz', datetime.datetime(2020, 2, 28, 7, 14, 41, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1583020800000/1583021236484.76dcdc3e3a88.e4797d0.b1fbf9fb-d279-4eae-b0c2-4b9ac53927b3.gz', datetime.datetime(2020, 3, 1, 0, 12, 42, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1583107200000/1583161681409.c6b9ef1c5321.e4797d0.d3ee7a19-89ea-4c29-bedd-10773e08ad08.gz', datetime.datetime(2020, 3, 2, 15, 8, 50, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1583280000000/1583298444475.4b8bf6068e8b.e4797d0.2d4eb688-24bc-47c9-a478-928d1c62573c.gz', datetime.datetime(2020, 3, 4, 5, 13, 5, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1583366400000/1583442473680.019a0321fa2a.e4797d0.f176b87c-6a66-4780-aff0-faeab197f607.gz', datetime.datetime(2020, 3, 5, 21, 15, 45, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1583539200000/1583586482295.c6b9ef1c5321.e4797d0.e349e8d3-a345-4887-9913-776f646790df.gz', datetime.datetime(2020, 3, 7, 13, 9, 54, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1583712000000/1583737690503.b9ae9497e1f7.e4797d0.da97dde4-d26f-408e-817f-edb25bc8ff30.gz', datetime.datetime(2020, 3, 9, 7, 13, 30, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1583798400000/1583881483755.7ed1f4abc9ac.e4797d0.2c20ead2-91d5-4dc2-9fd2-f49a93e1557e.gz', datetime.datetime(2020, 3, 10, 23, 5, 52, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1583971200000/1584014838481.83ac57d26ba8.e4797d0.e17b6a0a-9db7-47fa-8d2f-5bbd6d06f02b.gz', datetime.datetime(2020, 3, 12, 12, 14, 26, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1584144000000/1584162427065.76dcdc3e3a88.e4797d0.f9990bc7-9921-417a-bd6b-e018d9cb5b8b.gz', datetime.datetime(2020, 3, 14, 5, 7, 58, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1584230400000/1584310062232.4b8bf6068e8b.e4797d0.aede9b28-c607-4ca2-a3f7-19e6df269c5d.gz', datetime.datetime(2020, 3, 15, 22, 10, 17, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1584403200000/1584436082060.44850b27b671.e4797d0.999ae993-6061-40c6-bc00-b6d9af24e62a.gz', datetime.datetime(2020, 3, 17, 9, 10, 30, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1584489600000/1584572886233.827d089935eb.e4797d0.b53f399d-5917-4242-b081-ee1be1d7f4a4.gz', datetime.datetime(2020, 3, 18, 23, 12, 48, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1584662400000/1584691695490.09257d6fd6ca.e4797d0.68e1326f-9a7a-41f1-8409-3277378c7c3c.gz', datetime.datetime(2020, 3, 20, 8, 12, 52, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1584835200000/1584835660287.0f8dd4e4de52.e4797d0.590d2b37-cca8-4da1-aaf4-c0b5417e4ad2.gz', datetime.datetime(2020, 3, 22, 0, 10, 33, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1584921600000/1584965284458.44850b27b671.e4797d0.6b2632ba-9702-42b1-ba3a-4a2897d49e0c.gz', datetime.datetime(2020, 3, 23, 12, 12, 28, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1585094400000/1585098448612.0912e92fcdd6.e4797d0.79ff129e-c144-48e8-938d-6fad908228ec.gz', datetime.datetime(2020, 3, 25, 1, 8, 17, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1585180800000/1585224492346.e5148cf4970a.e4797d0.9abce626-48ff-41d9-8a4c-5baeac3b726a.gz', datetime.datetime(2020, 3, 26, 12, 16, 16, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1585353600000/1585368369182.c1031d165a34.e4797d0.3e765c8c-a2a0-4ea0-8ef7-42130e3fa53e.gz', datetime.datetime(2020, 3, 28, 4, 10, 39, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1585440000000/1585501651623.2569a04bf190.e4797d0.85684546-8b0f-427a-98d6-814cd8e0f882.gz', datetime.datetime(2020, 3, 29, 17, 13, 10, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1585612800000/1585627682618.e5148cf4970a.e4797d0.92138c9b-3c45-48d2-bd9c-76e45292e3ac.gz', datetime.datetime(2020, 3, 31, 4, 10, 5, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1585699200000/1585728523284.09257d6fd6ca.e4797d0.62ce8f4d-952f-4fea-a94f-8bc236a283cf.gz', datetime.datetime(2020, 4, 1, 8, 17, 14, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1585785600000/1585825658263.4b8bf6068e8b.e4797d0.bd26ca12-c357-4042-adfc-0468b51cfe51.gz', datetime.datetime(2020, 4, 2, 11, 12, 6, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1585872000000/1585920509045.94c3a0b6043c.e4797d0.56c58ed7-06c2-4c45-a8ad-5765c5570888.gz', datetime.datetime(2020, 4, 3, 13, 35, 53, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1585958400000/1586039312305.58e24df147da.e4797d0.0c7e2753-660e-431c-9153-ef9f258c66c7.gz', datetime.datetime(2020, 4, 4, 22, 32, 20, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1586131200000/1586140100674.e1c39abae8f9.e4797d0.dfed5793-071a-42e0-9599-14ac9f4d937d.gz', datetime.datetime(2020, 4, 6, 2, 32, 9, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1586217600000/1586237304533.62c9a0ac306b.e4797d0.b783a3e3-8767-4131-ab03-4ed828b997ad.gz', datetime.datetime(2020, 4, 7, 5, 34, 23, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1586304000000/1586333284311.11a24f32a6f3.e4797d0.20714b6d-cd10-4c18-a1b4-c577d5e311d0.gz', datetime.datetime(2020, 4, 8, 8, 14, 3, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1586390400000/1586428109076.5bca7de53912.e4797d0.aa4d3beb-655e-4da5-b7b1-62eeddf8c440.gz', datetime.datetime(2020, 4, 9, 10, 30, 45, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1586476800000/1586534691713.31bb1c92eddc.e4797d0.259762f9-f86e-4363-b92a-c9fd287bbfc1.gz', datetime.datetime(2020, 4, 10, 16, 11, 32, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1586563200000/1586647729289.9e128124e6dd.e4797d0.1a30a03d-70b8-437e-bab1-37fc86b9d8ed.gz', datetime.datetime(2020, 4, 11, 23, 29, 30, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1586736000000/1586747079084.423b3f2993de.e4797d0.39173e57-2c3d-4460-b1be-145b1f813905.gz', datetime.datetime(2020, 4, 13, 3, 5, 50, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1586822400000/1586840881557.764f4f590070.e4797d0.6799a624-4c7a-4526-ae49-465372f1825c.gz', datetime.datetime(2020, 4, 14, 5, 9, 21, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1586908800000/1586938085582.11a24f32a6f3.e4797d0.ba8c96ce-e751-4099-bf02-73cc8b14ddc6.gz', datetime.datetime(2020, 4, 15, 8, 15, 17, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1586995200000/1587035233719.2569a04bf190.e4797d0.982e0adc-81b1-4d86-a4ef-7b20816b54e2.gz', datetime.datetime(2020, 4, 16, 11, 7, 43, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1587081600000/1587128104806.040b170b980a.e4797d0.f5d580d4-f210-47a1-aeba-d24df05be196.gz', datetime.datetime(2020, 4, 17, 12, 58, 51, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1587168000000/1587229707682.44850b27b671.e4797d0.52e2d4da-b5f1-4ea6-b201-c7dbd172c0b7.gz', datetime.datetime(2020, 4, 18, 17, 10, 33, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1587254400000/1587333794845.54142f007a58.e4797d0.abc4c8e6-4daa-4c5d-aed1-c6f3f34420fd.gz', datetime.datetime(2020, 4, 19, 22, 7, 59, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1587340800000/1587427632297.e346470e0c37.e4797d0.3e9b8f3e-3f05-4408-a624-b0f7210c4e89.gz', datetime.datetime(2020, 4, 21, 0, 10, 50, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1587513600000/1587521388931.467b17edabff.e4797d0.177a5231-c34f-45ee-b2b5-32867d863f97.gz', datetime.datetime(2020, 4, 22, 2, 12, 48, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1587600000000/1587617707609.040b170b980a.e4797d0.2f57e5f1-89a1-4968-a067-2b1dc18f95f2.gz', datetime.datetime(2020, 4, 23, 5, 1, 42, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1587686400000/1587712084492.c6b9ef1c5321.e4797d0.9f777f79-fde8-49ab-8982-e9db4d82f842.gz', datetime.datetime(2020, 4, 24, 7, 13, 21, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1587772800000/1587812828581.0ed18d56e7db.e4797d0.fcb9226b-7981-47a7-acb2-38d67afa5465.gz', datetime.datetime(2020, 4, 25, 11, 8, 36, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1587859200000/1587914922908.b3b3a000ab6e.e4797d0.ae2c1965-bda7-4601-9430-9416d96f6986.gz', datetime.datetime(2020, 4, 26, 15, 31, 47, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1587945600000/1588010608134.77940b5bb279.e4797d0.a5c88a46-ac90-4ed3-9de2-d920e49daa4b.gz', datetime.datetime(2020, 4, 27, 18, 3, 58, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1588032000000/1588112901832.62c9a0ac306b.e4797d0.c2b1f5cf-5df1-45eb-8535-9d1f2d255b00.gz', datetime.datetime(2020, 4, 28, 22, 30, 22, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1588204800000/1588205122774.423b3f2993de.e4797d0.f41d3a70-f95b-4fa6-bfab-0a3bb7b9b91b.gz', datetime.datetime(2020, 4, 30, 0, 13, 59, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1588291200000/1588300102906.62c9a0ac306b.e4797d0.095a40e7-168e-4adc-b94b-fb107f49d35f.gz', datetime.datetime(2020, 5, 1, 2, 33, 30, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1588377600000/1588403232555.e9a2911a4a83.e4797d0.a6ed3c3e-e4e9-47f4-9be4-dfe11877640b.gz', datetime.datetime(2020, 5, 2, 7, 11, 52, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1588464000000/1588500484311.b9ae9497e1f7.e4797d0.76f4f89a-af31-4997-9095-25ca6f86ddf9.gz', datetime.datetime(2020, 5, 3, 10, 12, 52, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1588550400000/1588591701657.12258545f0fe.e4797d0.60c32404-accb-418b-82a6-91522c4bf86e.gz', datetime.datetime(2020, 5, 4, 11, 33, 1, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1588636800000/1588685314353.ec0b6860dc79.e4797d0.2ea4f89b-77e5-4741-895e-b5b7d8829880.gz', datetime.datetime(2020, 5, 5, 13, 33, 8, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1588723200000/1588784112462.24c78a302da4.e4797d0.84677711-97bb-4832-817a-9e4aed7a581d.gz', datetime.datetime(2020, 5, 6, 17, 0, 11, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1588809600000/1588883298150.62c9a0ac306b.e4797d0.c79ba1dd-f03d-4bf0-9d9d-9e77b0ec9152.gz', datetime.datetime(2020, 5, 7, 20, 28, 21, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1588896000000/1588980535430.58e24df147da.e4797d0.f6eab649-831b-4051-af63-160d9563ea5f.gz', datetime.datetime(2020, 5, 8, 23, 33, 36, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1589068800000/1589076494047.c6b9ef1c5321.e4797d0.4c76e7c9-85b3-4d2c-a560-917e85da5edb.gz', datetime.datetime(2020, 5, 10, 2, 9, 53, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1589155200000/1589173626458.019a0321fa2a.e4797d0.ff1154b0-b737-41bf-98ef-f4ecf9cffe41.gz', datetime.datetime(2020, 5, 11, 5, 7, 50, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1589241600000/1589264912507.ec0b6860dc79.e4797d0.48f70d22-75c3-42de-805a-669d1afda79a.gz', datetime.datetime(2020, 5, 12, 6, 35, 17, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1589328000000/1589360889478.c6b9ef1c5321.e4797d0.842d782d-3777-4392-ba22-c1a578612245.gz', datetime.datetime(2020, 5, 13, 9, 9, 50, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1589414400000/1589454510775.827d089935eb.e4797d0.54bb68b7-7bf9-4de0-b225-5fb7e80ebde5.gz', datetime.datetime(2020, 5, 14, 11, 17, 19, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1589500800000/1589547797717.54142f007a58.e4797d0.dc507a42-a07c-4b53-b01d-a66155c54566.gz', datetime.datetime(2020, 5, 15, 13, 11, 18, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1589587200000/1589641389157.63287a45f1de.e4797d0.b472d3f2-1f92-443f-b474-1844d313f576.gz', datetime.datetime(2020, 5, 16, 15, 3, 45, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1589673600000/1589738104812.7d184d6e1834.e4797d0.7f8edf30-7892-441e-8d5f-2b98bf2f5926.gz', datetime.datetime(2020, 5, 17, 17, 57, 12, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1589760000000/1589836063673.827d089935eb.e4797d0.faa2757d-71c8-4e49-a43b-3927493c57aa.gz', datetime.datetime(2020, 5, 18, 21, 14, 39, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1589846400000/1589923721360.5bca7de53912.e4797d0.c174bd01-1646-4cce-a984-336540ccc0a3.gz', datetime.datetime(2020, 5, 19, 21, 37, 25, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1589932800000/1590019227399.885e0305cc00.e4797d0.ec9a4ffc-b953-4574-a618-41cc42ff1cda.gz', datetime.datetime(2020, 5, 21, 0, 4, 35, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1590105600000/1590116426506.71cff39b8f66.e4797d0.65b10edf-3a7d-4e6b-ad96-3a2da964cb8f.gz', datetime.datetime(2020, 5, 22, 3, 9, 9, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1590192000000/1590220820185.b411200a836f.e4797d0.a2167622-adfc-4106-9f85-68021f67fe8c.gz', datetime.datetime(2020, 5, 23, 8, 4, 39, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1590278400000/1590321622492.524dbd36c781.e4797d0.5230194c-07b0-4ac2-9b89-a511a66cbddb.gz', datetime.datetime(2020, 5, 24, 12, 7, 22, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1590364800000/1590415234430.832e65548bdc.e4797d0.c45a5dc9-ce79-478e-9278-66c90b13ac48.gz', datetime.datetime(2020, 5, 25, 14, 3, 41, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1590451200000/1590508835874.832e65548bdc.e4797d0.a2e9c7e5-6e92-4992-80e0-8af3dde9814c.gz', datetime.datetime(2020, 5, 26, 16, 8, 23, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1590537600000/1590598862371.4c4b4379a39a.e4797d0.beccd733-e217-4d2d-929e-538549d3b2f1.gz', datetime.datetime(2020, 5, 27, 17, 9, 42, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1590624000000/1590703224188.e036cb684a5b.e4797d0.3781b3b2-6c8e-4bfc-a47e-2bd9f7925033.gz', datetime.datetime(2020, 5, 28, 22, 2, 40, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1590710400000/1590796833315.832e65548bdc.e4797d0.4f865a78-2454-4bb1-b578-fcfaa805665c.gz', datetime.datetime(2020, 5, 30, 0, 10, 23, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1590883200000/1590897627742.62ed85cfdc42.e4797d0.0ff8da8b-4ea5-488b-b485-05d5ca1990a2.gz', datetime.datetime(2020, 5, 31, 4, 2, 29, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1590969600000/1591002019186.92e5d03dc321.e4797d0.d1f67adf-d67b-460b-84ec-3487d22743b6.gz', datetime.datetime(2020, 6, 1, 9, 3, 7, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1591056000000/1591092213477.524dbd36c781.e4797d0.9e8cbd03-2f73-460f-9723-797ab4a5a9ce.gz', datetime.datetime(2020, 6, 2, 10, 12, 10, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1591142400000/1591185617938.92e5d03dc321.e4797d0.a97f052b-1662-4c4d-8614-08f17b5162c4.gz', datetime.datetime(2020, 6, 3, 12, 0, 26, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1591228800000/1591279244061.b411200a836f.e4797d0.422760be-90dc-441b-aa17-068bbc5ca7d4.gz', datetime.datetime(2020, 6, 4, 14, 7, 20, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1591315200000/1591376421167.de0497103300.e4797d0.ece1f704-f7b0-4891-8ce8-0c52ca2a14b7.gz', datetime.datetime(2020, 6, 5, 17, 2, 23, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1591401600000/1591473626688.0a15415624d2.e4797d0.cbdd1494-a939-4cd4-9b99-8d652d3f6f39.gz', datetime.datetime(2020, 6, 6, 20, 2, 12, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1591574400000/1591578018505.40e51ccaa5c0.e4797d0.5bdb1857-5fa0-4295-a164-6d3f75dcaa9f.gz', datetime.datetime(2020, 6, 8, 1, 0, 43, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1591660800000/1591678823906.e036cb684a5b.e4797d0.d284370d-cde3-421e-a459-fbe0d39bb9ec.gz', datetime.datetime(2020, 6, 9, 5, 5, 32, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1591747200000/1591779619457.44539c73a1f7.e4797d0.f9351bdb-b718-497a-b474-a9aa9b8836a4.gz', datetime.datetime(2020, 6, 10, 9, 2, 44, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1591833600000/1591873234185.c734c4f0ebc8.e4797d0.13a2d8de-e71d-44a8-b687-ea7b72c2db5d.gz', datetime.datetime(2020, 6, 11, 11, 7, 51, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1591920000000/1591970422895.de0497103300.e4797d0.52e52879-d5f7-45e8-971d-02a80449ee3d.gz', datetime.datetime(2020, 6, 12, 14, 6, 21, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1592006400000/1592064019189.b411200a836f.e4797d0.01d9a14f-910d-459a-9f58-78bae4c6d9ca.gz', datetime.datetime(2020, 6, 13, 16, 2, 18, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1592092800000/1592172018771.8971f61b9335.e4797d0.a17d2490-c7e8-450d-b158-ff383b2eb5dc.gz', datetime.datetime(2020, 6, 14, 22, 1, 8, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1592179200000/1592262039206.ee0c1e3b8151.e4797d0.7f6c8d7f-973c-4e7e-a44f-d8dece7cf468.gz', datetime.datetime(2020, 6, 15, 23, 6, 26, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1592352000000/1592359231172.80b00573bab8.e4797d0.792d55ea-b858-44bb-af3a-8c84c32e6c43.gz', datetime.datetime(2020, 6, 17, 2, 1, 13, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1592438400000/1592456893366.3a8b77052e1c.baa71ec.33ba11c2-6787-437c-817c-0f646b127d3a.gz', datetime.datetime(2020, 6, 18, 5, 10, 7, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1592524800000/1592546899398.0088ce50830f.baa71ec.adf4dc1c-4fbb-4f71-b09d-07f4ded82ccf.gz', datetime.datetime(2020, 6, 19, 6, 15, 47, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1592611200000/1592647695049.c79ebfa6576e.baa71ec.5c5a9d32-1bd1-4b87-8c67-eee4b5075f40.gz', datetime.datetime(2020, 6, 20, 10, 12, 59, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1592697600000/1592741294740.55fec7b17b44.baa71ec.9e0c0794-58c5-43a7-892e-20a09679d9dc.gz', datetime.datetime(2020, 6, 21, 12, 14, 39, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1592784000000/1592834893936.bf01d826ce84.baa71ec.1b676bbf-77b2-4cdc-839a-96cbc9d73f5b.gz', datetime.datetime(2020, 6, 22, 14, 11, 26, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1592956800000/1592978788211.7c46c64530d3.baa71ec.bd9f8628-38b0-43a4-9bdb-b31609b2206a.gz', datetime.datetime(2020, 6, 24, 6, 9, 10, tzinfo=tzutc()))
+
+
+('segment-logs/6Q2N6sz6Aq/1593129600000/1593155187365.9112e2721a43.baa71ec.e0661db4-2549-4ee0-848b-47568f477214.gz', datetime.datetime(2020, 6, 26, 7, 8, 14, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1593302400000/1593338793208.9fcc2d7c308a.baa71ec.b543254e-e2cc-433f-9aa9-58d35a8b2868.gz', datetime.datetime(2020, 6, 28, 10, 7, 34, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1593475200000/1593518787371.22d6e72e2a97.baa71ec.79717512-a08d-4eed-bb66-516da7d9b9bc.gz', datetime.datetime(2020, 6, 30, 12, 6, 47, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1593648000000/1593691606436.046a4f835cfb.baa71ec.1249f7c4-288e-4d37-93f2-ab4552e16bb9.gz', datetime.datetime(2020, 7, 2, 12, 14, 4, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1593820800000/1593867987664.683ee04372fa.baa71ec.9e8a09d6-543c-470a-ad3e-43c9da54fa2d.gz', datetime.datetime(2020, 7, 4, 13, 6, 55, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1593993600000/1594043258692.7a853f86712f.baa71ec.54aed873-5724-4d9e-b9ec-b920dd2ef024.gz', datetime.datetime(2020, 7, 6, 13, 54, 43, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1594166400000/1594217226593.7349d09321c9.baa71ec.da9f3730-56ab-41a9-bd78-b19dcbf58f07.gz', datetime.datetime(2020, 7, 8, 14, 14, 44, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1594339200000/1594393633297.5b79ba696bc1.baa71ec.ea2eabff-fb8a-410b-b710-af81485f41c8.gz', datetime.datetime(2020, 7, 10, 15, 15, 12, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1594512000000/1594570023878.cd3ca1f3aa13.baa71ec.0a646a4e-ce79-4463-a60b-9849ec49939c.gz', datetime.datetime(2020, 7, 12, 16, 13, 33, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1594684800000/1594746422796.80fe6df13684.baa71ec.aab3e470-aca4-4c53-8b22-81628d052608.gz', datetime.datetime(2020, 7, 14, 17, 10, 41, tzinfo=tzutc()))
+
+('segment-logs/6Q2N6sz6Aq/1594857600000/1594908425388.22d6e72e2a97.baa71ec.ed1e5c78-7dde-4722-9c77-f0fd0cb79edb.gz', datetime.datetime(2020, 7, 16, 14, 14, 25, tzinfo=tzutc()))
+
+null

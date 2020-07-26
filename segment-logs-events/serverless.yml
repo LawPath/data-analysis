@@ -1,0 +1,28 @@
+service: segment-logs-events
+
+
+provider:
+  name: aws
+  runtime: python3.7
+  profile: andrea.soriano
+  region: ap-southeast-2
+
+  iamRoleStatements:
+    - Effect: "Allow"
+      Action:
+        - "s3:*"
+      Resource:
+        - "*"
+
+functions:
+  getData:
+    handler: handler.getData
+    timeout: 120
+
+plugins:
+  - serverless-python-requirements
+
+custom:
+  pythonRequirements:
+    dockerizePip: non-linux
+    strip: false

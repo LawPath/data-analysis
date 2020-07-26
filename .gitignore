@@ -2,11 +2,18 @@
 testNegative.json
 testPositive.json
 implementingState-constructor.json
+data-collector-for-s3
+data-collector-old.txt
+useEffect-Search-v1
+modalData
+JSReact.docx
+Neo4JQueries.txt
+Neo4JTraining.txt
+notes.txt
+Redux.docx
+Stripe and Segment Log Handover.docx
 
-#directories
-./components/*
-./jsx/*
-./pics/*
-./seasons/*
-./songs/*
-./widgets/*
+
+#folders
+aws-tests/
+file-manager/

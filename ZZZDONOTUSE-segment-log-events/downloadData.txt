@@ -1,0 +1,13 @@
+Traceback (most recent call last):
+  File "/usr/local/lib/node_modules/serverless/lib/plugins/aws/invokeLocal/invoke.py", line 86, in <module>
+
+    result = handler(input['event'], context)
+  File "./handler.py", line 116, in downloadData
+    for data in downloadData('lawpath-data-lake-raw-data', 'segment-logs-events'):
+  File "./handler.py", line 116, in downloadData
+    for data in downloadData('lawpath-data-lake-raw-data', 'segment-logs-events'):
+  File "./handler.py", line 116, in downloadData
+    for data in downloadData('lawpath-data-lake-raw-data', 'segment-logs-events'):
+  [Previous line repeated 996 more times]
+RecursionError: maximum recursion depth exceeded
+
