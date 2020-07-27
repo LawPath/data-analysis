@@ -36,17 +36,17 @@ pipenv install
 ```
 pipenv shell
  ```
-4. Use NPM to generate a Pipfile.lock file to manage dependencies. To do so, use the following steps:
-Step 4.1: Run:
+4. Use NPM to generate a Pipfile.lock file to manage dependencies. To do so, use the following steps:<br />
+Step 4.1: Run: <br />
 ```
 npm init 
 ```
-Step 4.2: Accept all default configurations when running npm init, and enter "yes" at the end when prompted.
-Step 4.3: Run:
+Step 4.2: Accept all default configurations when running npm init, and enter "yes" at the end when prompted.<br />
+Step 4.3: Run: <br />
 ```
 npm install --save serverless-python-requirements
 ```
-5. Deploy the app by running:
+5. Deploy the app by running: <br />
 ```
 sls deploy
 ```
@@ -76,17 +76,17 @@ pipenv install
 ```
 pipenv shell
  ```
-4. Use NPM to generate a Pipfile.lock file to manage dependencies. To do so, use the following steps:
-Step 4.1: Run:
+4. Use NPM to generate a Pipfile.lock file to manage dependencies. To do so, use the following steps: <br />
+Step 4.1: Run: <br />
 ```
 npm init 
 ```
-Step 4.2: Accept all default configurations when running npm init, and enter "yes" at the end when prompted.
-Step 4.3: Run:
+Step 4.2: Accept all default configurations when running npm init, and enter "yes" at the end when prompted. <br />
+Step 4.3: Run:<br />
 ```
 npm install --save serverless-python-requirements
 ```
-5. Deploy the app by running:
+5. Deploy the app by running:<br />
 ```
 sls deploy
 ```
